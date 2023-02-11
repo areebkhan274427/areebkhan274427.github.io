@@ -1,0 +1,23 @@
+.test{
+    background-color: black;
+
+    color: white;
+    height: 60px;
+    padding-left: 25px;
+    width:100%;
+    position: sticky;
+    top: 0;
+    width: 100%;   
+}
+h2{
+    padding-top: 15px;
+}
+.index{
+    margin: 20px;
+}
+
+.b1{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
